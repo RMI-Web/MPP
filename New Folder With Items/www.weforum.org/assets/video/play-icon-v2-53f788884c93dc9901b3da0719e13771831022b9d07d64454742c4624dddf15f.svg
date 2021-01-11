@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <g fill="none" transform="translate(8 8)">
+    <circle cx="32" cy="32" r="26" fill="#FFF"></circle>
+    <circle cx="32" cy="32" r="32" fill="#FFF" opacity=".197" class="jwplayer-icon__outer"></circle>
+    <polygon fill="#989BAB" points="34.806 23.89 43.288 39.553 26.325 39.553" transform="rotate(90 34.806 31.721)"></polygon>
+  </g>
+</svg>
